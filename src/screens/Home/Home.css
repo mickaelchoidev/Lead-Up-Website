@@ -1,0 +1,27 @@
+.Home {
+  width: 100vw;
+  position: absolute;
+}
+
+.Home-jumbotron {
+  position: absolute;
+  top: 0;
+  z-index: 100;
+  background: rgb(248, 249, 250);
+  background: -moz-linear-gradient(
+    90deg,
+    rgba(248, 249, 250, 1) 25%,
+    rgba(248, 249, 250, 0) 75%
+  );
+  background: -webkit-linear-gradient(
+    90deg,
+    rgba(248, 249, 250, 1) 25%,
+    rgba(248, 249, 250, 0) 75%
+  );
+  background: linear-gradient(
+    90deg,
+    rgba(248, 249, 250, 1) 25%,
+    rgba(248, 249, 250, 0) 75%
+  );
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#f8f9fa",endColorstr="#f8f9fa",GradientType=1);
+}

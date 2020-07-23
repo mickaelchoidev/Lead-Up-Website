@@ -1,0 +1,52 @@
+#Home-carousel-image-1 {
+  width: 100vw;
+  height: 45vh;
+  background-image: linear-gradient(
+      0deg,
+      rgba(37, 37, 37, 0.2) 25%,
+      rgba(37, 37, 37, 0) 75%
+    ),
+    url(../../../images/medic.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+#Home-carousel-image-2 {
+  width: 100vw;
+  height: 45vh;
+  background-image: linear-gradient(
+      0deg,
+      rgba(37, 37, 37, 0.2) 25%,
+      rgba(37, 37, 37, 0) 75%
+    ),
+    url(../../../images/internet.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+#Home-carousel-image-3 {
+  width: 100vw;
+  height: 45vh;
+  background-image: linear-gradient(
+      0deg,
+      rgba(37, 37, 37, 0.2) 25%,
+      rgba(37, 37, 37, 0) 75%
+    ),
+    url(../../../images/laptop.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+#Home-carousel-image-4 {
+  width: 100vw;
+  height: 45vh;
+  background-image: linear-gradient(
+      0deg,
+      rgba(37, 37, 37, 0.2) 25%,
+      rgba(37, 37, 37, 0) 75%
+    ),
+    url(../../../images/team-spirit.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}

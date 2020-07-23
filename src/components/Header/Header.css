@@ -1,0 +1,17 @@
+.navbar-brand {
+  font-family: "Saira", sans-serif;
+  font-weight: bold;
+}
+
+.navbar {
+  padding: 0 2rem 0 0;
+}
+
+.navbar-brand {
+  padding-top: 0;
+  padding-bottom: 0;
+}
+
+.bg-light {
+  background-color: white !important;
+}

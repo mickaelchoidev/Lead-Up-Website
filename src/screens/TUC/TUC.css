@@ -1,0 +1,13 @@
+#TUC-image {
+  width: 100vw;
+  height: 50vh;
+  background-image: linear-gradient(
+      0deg,
+      rgba(37, 37, 37, 0.2) 25%,
+      rgba(37, 37, 37, 0) 75%
+    ),
+    url(../../images/TUC-1.jpeg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
