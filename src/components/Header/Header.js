@@ -24,7 +24,7 @@ const Header = () => {
       transition={elementTransition}
       className="Header"
     >
-      <nav className="navbar navbar-expand-lg navbar-light bg-light">
+      <nav className="navbar navbar-expand-lg navbar-light bg-light py-2 px-3">
         <Link className="navbar-brand Header-logo" to="/">
           <img src={require("../../images/leadUpLogo.jpg")} alt="leadUp" />
         </Link>
